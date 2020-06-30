@@ -1194,6 +1194,9 @@ img.gallery-img {
   text-align: left;
   text-transform: uppercase;
 }
+#content h1{
+  margin-bottom: 30px;
+}
 
 #showcase-page .showcase-intro p {
   font: 400 1.4rem "Montserrat", sans-serif;
@@ -1294,7 +1297,12 @@ img.gallery-img {
 }
 
 .project-info {
-  margin-top: 1em;
+  margin-top: .5em;
+  text-align: center;
+}
+.project-info img{
+  height: 500px;
+  width: auto;
 }
 
 ul.project-tags a{
@@ -1372,7 +1380,7 @@ h2.featuring{
   }
 
   #showcase-page .project-resources {
-    margin-left: 3rem;
+    margin-right: 2rem;
   }
 
   #showcase-page .project-a {
@@ -1394,6 +1402,7 @@ h2.featuring{
 #showcase-page .project-metadata section h3 {
   color: #ed225d;
   font: bold italic 1rem "Montserrat", sans-serif;
+  margin-top: 0px;
 }
 
 #showcase-page .project-resources ul.links {
@@ -1404,13 +1413,32 @@ h2.featuring{
 }
 
 #showcase-page .project-credit {
-  font: italic bold 1.25rem "Montserrat", sans-serif;
+  font: 1rem "Montserrat", sans-serif;
+  margin-right: 2rem;
 }
-
-#showcase-page .project-credit p {
-  margin: 0.5rem 0;
+.column{
+  display: flex;
+  flex-direction: column;
 }
-
+#showcase-page .project-credit p{
+  margin: 0px;
+  margin-top: 10px;
+}
+.project-credit .links{
+  display: flex;
+  flex-direction: row;
+  font-size: .7rem;
+}
+.project-credit .links li{
+  margin-right: 5px;
+}
+#showcase-page .project-credit h3{
+  margin: 0px;
+  margin-right: 10px;
+  color: #ed225d;
+  font: 700 italic Montserrat,sans-serif;
+  font-size: 1.2rem;
+}
 #showcase-page .note {
   font-size: 0.7rem;
 }

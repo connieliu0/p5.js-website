@@ -714,6 +714,7 @@ showcase:
   project-tag-organizing: "Organización"
   project-tag-tool: "Herramienta"
   project-tag-tutorial: "Tutorial"
+  project-tools: "Tools"
   project-roni: "Programmed Plotter Drawings"
   credit-roni: "Roni Cantor"
   description-roni: "Ondas senoidales y lerps generadas en p5.js, exportados como SVG y dibujados con un plotter y bolígrafos."
@@ -732,8 +733,9 @@ showcase:
   project-moon-xin: "Moving Responsive Posters"
   credit-moon-xin: "Moon Jang, Xin Xin, and students"
   description-moon-xin: "Pósters móviles basados en el navegador que utilizan sistemas gráficos, métodos de transformación y p5.js para abordar las connotaciones de una palabra de menos de 8 letras. Diseñado por estudiantes para un curso de diseño gráfico (Visual Narrative Systems / Sistemas Narrativos Visuales) en la Universidad de Georgia."
+  creator-website: "Website"
 
-  created-by: "Creado Por"
+  created-by: "Creado Por: "
   pronouns-female: "(ella)"
   creator-from-roni-cantor: "De Toronto, Canadá"
   project-links: "Enlaces de proyectos"

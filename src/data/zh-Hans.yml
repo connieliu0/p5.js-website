@@ -716,6 +716,7 @@ showcase:
   project-tag-organizing: "Organizing"
   project-tag-tool: "Tool"
   project-tag-tutorial: "Tutorial"
+  project-tools: "Tools"
   project-roni: "Programmed Plotter Drawings"
   credit-roni: "Roni Cantor"
   description-roni: "Sine waves and lerps generated in p5.js, exported as SVG, and drawn with a plotter and pens."
@@ -734,9 +735,10 @@ showcase:
   project-moon-xin: "Moving Responsive Posters"
   credit-moon-xin: "Moon Jang, Xin Xin, and students"
   description-moon-xin: "Browser-based moving posters that use graphical systems, transformation methods, and p5.js to address the connotations of a word less than 8 letters. Designed by students for a graphic design course (Visual Narrative Systems) at the University of Georgia."
+  creator-website: "Website"
 
 
-  created-by: "Created By"
+  created-by: "Created By: "
   pronouns-female: "(she/her)"
   creator-from-roni-cantor: "From Toronto, Canada"
   project-links: "Project Links"
