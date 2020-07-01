@@ -1,5 +1,6 @@
 es:
   src/data/en.yml:
+    line 720: '  project-tools'
     line 727: '  creator-website'
     line 719: '  project-tools'
     line 731: '  created-by'
@@ -78,7 +79,6 @@ es:
     line 108: '  your-first-sketch-intro4'
     line 133: '  complete-library-intro1'
     line 157: '  writing-a-tutorial-iframe-1'
-    line 720: '  project-a-1-3-phuong'
     line 721: '  project-a-1-4-phuong'
     line 730: '  project-a-2-7-phuong'
     line 480: '  notes3'
@@ -389,6 +389,7 @@ es:
     line 351: '>>>>>>> upstream/main'
 zh-Hans:
   src/data/en.yml:
+    line 720: '  project-tools'
     line 727: '  creator-website'
     line 719: '  project-tools'
     line 731: '  created-by'
@@ -451,7 +452,6 @@ zh-Hans:
     line 108: '  your-first-sketch-intro4'
     line 133: '  complete-library-intro1'
     line 157: '  writing-a-tutorial-iframe-1'
-    line 720: '  project-a-1-3-phuong'
     line 721: '  project-a-1-4-phuong'
     line 730: '  project-a-2-7-phuong'
     line 481: '  notes1'

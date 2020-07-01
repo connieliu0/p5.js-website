@@ -716,7 +716,7 @@ showcase:
   project-tag-organizing: "Organizing"
   project-tag-tool: "Tool"
   project-tag-tutorial: "Tutorial"
-  project-tools: "Functions/Libraries"
+  project-tools: "Tools"
   project-roni: "Programmed Plotter Drawings"
   credit-roni: "Roni Cantor"
   description-roni: "Sine waves and lerps generated in p5.js, exported as SVG, and drawn with a plotter and pens."
